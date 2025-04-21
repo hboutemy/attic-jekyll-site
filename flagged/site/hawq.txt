@@ -1,1 +1,0 @@
-hawq.apache.org
